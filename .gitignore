@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Xcode и сборка
+build/
+DerivedData/
+dist/
+*.dmg
+
+# Генерируется XcodeGen из project.yml
+*.xcodeproj
